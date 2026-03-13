@@ -1,0 +1,3 @@
+2026-03-13 18:58:55,527 - INFO - pipeline started
+2026-03-13 18:58:55,812 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-03-13 18:59:04,711 - ERROR - Pipeline failed: An error occurred (404) when calling the HeadObject operation: Not Found
