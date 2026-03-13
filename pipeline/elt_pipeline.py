@@ -37,7 +37,7 @@ try:
 
     # ---------- DATABASE CONNECTION ----------
     username = "root"
-    password = quote_plus("J@ikishan08")
+    password = quote_plus("123456708")
 
     engine = create_engine(
         f"mysql+pymysql://{username}:{password}@localhost:3306/ab_testing"
